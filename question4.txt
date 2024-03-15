@@ -1,0 +1,10 @@
+[200~para essa questão temos 
+
+levando em conta que podemos apertar quantas vezes quiser o interrupior, e ir em uma sala duas vezes, temos o seguinte:
+- as chances de ligarmos o interruptor e ele ser o correto 1/3 = 33.33% 
+- irmos na sala e verificar. se for o correto, entao, passamos a ter uma chance de 50% para cada sala. 
+- entao, temos a chance de errar na primeira e acertar na segunda -> (2/3) * (1/3) = 22.22%
+
+- Se acertamos de primeiro uma das sala, sobram duas sala para ser descorbertas. sendo uma chance de 50% para cada um. 
+
+Logo, o problema é puramente aleatoridade. não tem como afirmar com certeza quais são os interruptores de cada sala.
